@@ -1,0 +1,16 @@
+[project]
+name = "capt-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "evaluate>=0.4.5",
+    "indic-transliteration>=2.3.75",
+    "jax>=0.7.2",
+    "jiwer>=4.0.0",
+    "torch==2.7.0",
+    "torchaudio==2.7.0",
+    "torchvision>=0.22.0",
+    "wsl>=0.12",
+]
