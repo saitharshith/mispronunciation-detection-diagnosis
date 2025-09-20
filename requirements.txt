@@ -5,3 +5,6 @@ evaluate
 jiwer 
 indic-transliteration 
 jax
+transformers
+streamlit
+soundfile

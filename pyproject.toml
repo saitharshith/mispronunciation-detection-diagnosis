@@ -9,8 +9,11 @@ dependencies = [
     "indic-transliteration>=2.3.75",
     "jax>=0.7.2",
     "jiwer>=4.0.0",
+    "soundfile>=0.13.1",
+    "streamlit>=1.49.1",
     "torch==2.7.0",
     "torchaudio==2.7.0",
     "torchvision>=0.22.0",
+    "transformers>=4.56.2",
     "wsl>=0.12",
 ]
